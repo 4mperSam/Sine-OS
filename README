@@ -1,0 +1,24 @@
+++=========================================================++
+|| goto <dir>             ||   // same as cd               //
+|| mkdir <file>           ||  // same as mkdir            //
+|| mkfile <dir>           || // same as touch            //
+|| remove <file/dir>      || \\ same as rm               \\              
+|| copy <file> <dir>      ||  \\ same as cp               \\  
+|| whereami               ||   \\ same as pwd              \\
+|| move <file> <dir>      ||   // same as mv               //
+|| listdirs               ||  // list all directories     //
+|| listfiles              || // list all files           //
+|| read <file>            || \\ same as cat              \\
+|| write <file> <content> ||  \\ same as echo >           \\    
+|| log <content>          ||   \\ same as echo             \\
+|| force <command>        ||   // force command to execute //
+|| kill <process>         ||  // force quits a process    //
+++========================================================++
+
+Contributors in order of code completion
+
+NotAnDonkey#6764    | idToIndex, addFolder, minifying
+ronwnor#6285        | addState, 
+MarvelousBilly#9757 | Polygonal Intersections
+
+Thanks to all of you guys!
